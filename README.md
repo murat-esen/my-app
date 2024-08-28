@@ -4,6 +4,8 @@
 
 **Client:** React(Vite), 
 
+ Review live demo: https://react-1314.netlify.app
+
 ![alt text](public/screenshots/ss1.png)
 
 ## Getting Started
