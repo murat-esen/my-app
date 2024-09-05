@@ -4,7 +4,7 @@
 
 **Client:** React(Vite), 
 
- Review live demo: https://clinquant-frangipane-1ec4f5.netlify.app/
+ 
 
 ![alt text](public/screenshots/ss1.png)
 
